@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/souly-you/static/css/main.a9302f89.chunk.css",
+    "main.js": "/souly-you/static/js/main.d81cfe0e.chunk.js",
+    "main.js.map": "/souly-you/static/js/main.d81cfe0e.chunk.js.map",
+    "runtime-main.js": "/souly-you/static/js/runtime-main.cd6aed3a.js",
+    "runtime-main.js.map": "/souly-you/static/js/runtime-main.cd6aed3a.js.map",
+    "static/js/2.874ee414.chunk.js": "/souly-you/static/js/2.874ee414.chunk.js",
+    "static/js/2.874ee414.chunk.js.map": "/souly-you/static/js/2.874ee414.chunk.js.map",
+    "static/js/3.dde640b3.chunk.js": "/souly-you/static/js/3.dde640b3.chunk.js",
+    "static/js/3.dde640b3.chunk.js.map": "/souly-you/static/js/3.dde640b3.chunk.js.map",
+    "index.html": "/souly-you/index.html",
+    "static/css/main.a9302f89.chunk.css.map": "/souly-you/static/css/main.a9302f89.chunk.css.map",
+    "static/js/2.874ee414.chunk.js.LICENSE.txt": "/souly-you/static/js/2.874ee414.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/souly-you/static/media/Poppins-Regular.8081832f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd6aed3a.js",
+    "static/js/2.874ee414.chunk.js",
+    "static/css/main.a9302f89.chunk.css",
+    "static/js/main.d81cfe0e.chunk.js"
+  ]
+}
