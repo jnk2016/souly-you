@@ -13,6 +13,11 @@ object-assign
  * Licensed under MIT License
  */
 
+/**
+ * @preserve XDate v@VERSION
+ * Docs & Licensing: http://arshaw.com/xdate/
+ */
+
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
